@@ -1,14 +1,14 @@
 # Awesome LLM Agent Frameworks [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome LLM frameworks and agent development tools. If you have a
-suggestion, feel free to open an issue or pull request. (Last updated: 2026-06-07)
+suggestion, feel free to open an issue or pull request. (Last updated: 2026-06-14)
 
 ## Frameworks
 
 - [CrewAI](https://github.com/joaomdmoura/crewAI) - Framework for orchestrating
   role-playing AI agents
 
-  52,949 stars · 7,399 forks · 297 contributors · 404 issues · Python · MIT
+  53,488 stars · 7,487 forks · 297 contributors · 448 issues · Python · MIT
 
   - Role-based agent design
   - Multi-agent collaboration
@@ -19,7 +19,7 @@ suggestion, feel free to open an issue or pull request. (Last updated: 2026-06-0
 - [Langchain](https://github.com/hwchase17/langchain) - Building applications with LLMs
   through composability
 
-  138,682 stars · 22,984 forks · 469 contributors · 552 issues · Python · MIT
+  139,219 stars · 23,077 forks · 469 contributors · 415 issues · Python · MIT
 
   - Modular and extensible architecture
   - Unified interface for LLMs
@@ -32,7 +32,7 @@ suggestion, feel free to open an issue or pull request. (Last updated: 2026-06-0
 - [Microsoft AutoGen](https://github.com/microsoft/autogen) - Framework for building
   multi-agent conversational systems
 
-  58,737 stars · 8,863 forks · 445 contributors · 879 issues · Python · CC-BY-4.0
+  58,929 stars · 8,895 forks · 445 contributors · 886 issues · Python · CC-BY-4.0
 
   - Multi-agent architecture
   - Customizable agents
@@ -44,7 +44,7 @@ suggestion, feel free to open an issue or pull request. (Last updated: 2026-06-0
 - [Llama Index](https://github.com/run-llama/llama_index) - Data framework for LLM
   applications
 
-  49,960 stars · 7,523 forks · 474 contributors · 434 issues · Python · MIT
+  50,113 stars · 7,554 forks · 474 contributors · 437 issues · Python · MIT
 
   - Advanced indexing and retrieval
   - Support for 160+ data sources
@@ -56,7 +56,7 @@ suggestion, feel free to open an issue or pull request. (Last updated: 2026-06-0
 - [Microsoft Semantic Kernel](https://github.com/microsoft/semantic-kernel) -
   Integration framework for AI models
 
-  28,067 stars · 4,635 forks · 397 contributors · 285 issues · C# · MIT
+  28,116 stars · 4,647 forks · 397 contributors · 282 issues · C# · MIT
 
   - Enterprise-grade security
   - Multi-language support
@@ -68,7 +68,7 @@ suggestion, feel free to open an issue or pull request. (Last updated: 2026-06-0
 - [Dify](https://github.com/langgenius/dify) - Open-source framework for LLM
   applications
 
-  144,189 stars · 22,691 forks · 460 contributors · 741 issues · TypeScript · NOASSERTION
+  145,096 stars · 22,836 forks · 460 contributors · 746 issues · TypeScript · NOASSERTION
 
   - Visual prompt orchestration
   - Long context integration
@@ -79,7 +79,7 @@ suggestion, feel free to open an issue or pull request. (Last updated: 2026-06-0
 
 - [Haystack](https://github.com/deepset-ai/haystack) - End-to-end NLP framework
 
-  25,470 stars · 2,830 forks · 354 contributors · 116 issues · MDX · Apache-2.0
+  25,560 stars · 2,847 forks · 358 contributors · 126 issues · MDX · Apache-2.0
 
   - Document processing
   - Neural search
@@ -91,7 +91,7 @@ suggestion, feel free to open an issue or pull request. (Last updated: 2026-06-0
 - [Embedchain](https://github.com/embedchain/embedchain) - Framework for ChatGPT-like
   bots
 
-  57,906 stars · 6,625 forks · 316 contributors · 404 issues · Python · Apache-2.0
+  58,495 stars · 6,719 forks · 330 contributors · 392 issues · Python · Apache-2.0
 
   - Multi-source data ingestion
   - Automated embedding
@@ -103,7 +103,7 @@ suggestion, feel free to open an issue or pull request. (Last updated: 2026-06-0
 - [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - Open-source autonomous AI
   agent framework
 
-  17,559 stars · 2,222 forks · 62 contributors · 261 issues · Python · MIT
+  17,568 stars · 2,223 forks · 62 contributors · 264 issues · Python · MIT
 
   - Customizable agent workflows
   - Tool creation framework
@@ -114,7 +114,7 @@ suggestion, feel free to open an issue or pull request. (Last updated: 2026-06-0
 
 - [AGiXT](https://github.com/Josh-XT/AGiXT) - Scalable framework for AI agents
 
-  3,194 stars · 446 forks · 41 contributors · 0 issues · Python · MIT
+  3,197 stars · 446 forks · 41 contributors · 0 issues · Python · MIT
 
   - Multi-provider support
   - Chain of thought processing
@@ -125,7 +125,7 @@ suggestion, feel free to open an issue or pull request. (Last updated: 2026-06-0
 
 - [XAgent](https://github.com/OpenBMB/XAgent) - Autonomous LLM-based agent framework
 
-  8,531 stars · 905 forks · 33 contributors · 61 issues · Python · Apache-2.0
+  8,531 stars · 904 forks · 33 contributors · 62 issues · Python · Apache-2.0
 
   - Human-like planning
   - Autonomous task decomposition
@@ -137,7 +137,7 @@ suggestion, feel free to open an issue or pull request. (Last updated: 2026-06-0
 - [OpenAgents](https://github.com/xlang-ai/OpenAgents) - Open platform for language
   agents
 
-  4,836 stars · 531 forks · 16 contributors · 13 issues · Python · Apache-2.0
+  4,840 stars · 532 forks · 16 contributors · 13 issues · Python · Apache-2.0
 
   - Data analysis capabilities
   - Web browsing integration
@@ -149,7 +149,7 @@ suggestion, feel free to open an issue or pull request. (Last updated: 2026-06-0
 - [AI Legion](https://github.com/eumemic/ai-legion) - Swarm framework for autonomous
   agents
 
-  1,430 stars · 172 forks · 6 contributors · 9 issues · TypeScript · MIT
+  1,431 stars · 172 forks · 6 contributors · 9 issues · TypeScript · MIT
 
   - Multi-agent coordination
   - Dynamic task allocation
@@ -161,7 +161,7 @@ suggestion, feel free to open an issue or pull request. (Last updated: 2026-06-0
 - [Agent Protocol](https://github.com/e2b-dev/agent-protocol) - Unified interface for AI
   agents
 
-  1,459 stars · 185 forks · 14 contributors · 47 issues · Python · MIT
+  1,461 stars · 184 forks · 14 contributors · 47 issues · Python · MIT
 
   - Standardized communication
   - Language-agnostic design
